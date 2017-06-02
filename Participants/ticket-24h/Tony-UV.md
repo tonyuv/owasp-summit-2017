@@ -16,3 +16,7 @@ ticket          : 5x24h
 working-sessions:
 # add above a comma delimited list of the Working Sessions you would like to attend (use the session's title)
 ---
+CEO of VerSprite, author of "Risk Centric Threat Modeling" and co-inventor of the PASTA (Process for Attack Simulation & Threat Analysis) threat modeling process. 20 years of engineering, dev, and security experience.  Tony leads his AppSec team members on threat modeling engagements worldwide for multiple industry segments. 
+
+- https://www.amazon.com/Risk-Centric-Threat-Modeling-Simulation/dp/0470500964
+- https://versprite.com/PASTA-abstract.pdf
